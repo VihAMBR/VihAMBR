@@ -23,7 +23,7 @@ shaping product at [Clique](https://clique.so).
 
 ### Elsewhere
 
-[clique.so](https://clique.so) &nbsp;·&nbsp; [vihaan@clique.so](mailto:vihaan@clique.so)
+[vihaan.site](https://vihaan.site) &nbsp;·&nbsp; [clique.so](https://clique.so) &nbsp;·&nbsp; [vihaan@clique.so](mailto:vihaan@clique.so)
 
 ---
 

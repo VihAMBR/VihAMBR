@@ -21,7 +21,7 @@
     <text x="88" y="293">DESIGN ENGINEER
       <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.7s" fill="freeze"/>
     </text>
-    <text x="1192" y="293" text-anchor="end">CLIQUE.SO
+    <text x="1192" y="293" text-anchor="end">VIHAAN.SITE
       <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze"/>
     </text>
   </g>
