@@ -1,0 +1,28 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vihaan Agarwal — Design Engineer">
+  <rect width="1280" height="340" fill="#fafafa"/>
+  <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, monospace">
+    <rect x="88" y="100" width="9" height="9" fill="#0a0a0a">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.1s" fill="freeze"/>
+    </rect>
+    <text x="112" y="110" font-size="13" letter-spacing="6" fill="#8a8a8a">
+      PORTFOLIO / 2026
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.15s" fill="freeze"/>
+    </text>
+  </g>
+  <text x="86" y="216" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="-3.5" fill="#0a0a0a">
+    Vihaan Agarwal
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.7s" begin="0.2s" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" fill="freeze"/>
+  </text>
+  <line x1="88" y1="250" x2="88" y2="250" stroke="#e2e2e2" stroke-width="1">
+    <animate attributeName="x2" from="88" to="1192" dur="1s" begin="0.35s" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" fill="freeze"/>
+  </line>
+  <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="3" fill="#6a6a6a">
+    <text x="88" y="293">DESIGN ENGINEER
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.7s" fill="freeze"/>
+    </text>
+    <text x="1192" y="293" text-anchor="end">CLIQUE.SO
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
